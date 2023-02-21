@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "alias": "sam.np",
+      "competency level name": "Basic Programming Skills",
+      "learning direction": "Forward"
+    },
+    {
+      "alias": "sang.nq",
+      "competency level name": "Advanced Programming Skills",
+      "learning direction": "Forward"
+    },
+    {
+      "alias": "tien.nm",
+      "competency level name": "Data Science Skills",
+      "learning direction": "Forward"
+    },
+    {
+      "alias": "sam.nw",
+      "competency level name": "Leadership Skills",
+      "learning direction": "Upward"
+    },
+    {
+      "alias": "an.td",
+      "competency level name": "Project Management Skills",
+      "learning direction": "Upward"
+    }
+  ]
+}
